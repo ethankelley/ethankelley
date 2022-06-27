@@ -1,3 +1,4 @@
-# Ethan Kelley
+# Ethan Kelley 
+<iframe src="https://giphy.com/embed/1229mlttgo8aR2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/words-jenkins-1229mlttgo8aR2">via GIPHY</a></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ethan\_Kelley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethandk)](https://www.linkedin.com/in/ethandk) ![Gmail Badge](https://img.shields.io/badge/-ekelley531@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekelley531@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ethan\_Kelley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethandk)](https://www.linkedin.com/in/ethandk) [![Gmail Badge](https://img.shields.io/badge/-ekelley531@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekelley531@gmail.com)](mailto:ekelley531@gmail.com)
