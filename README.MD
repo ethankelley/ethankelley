@@ -12,21 +12,6 @@ Currently I am pursuing a career in sofware development.
 
 Outside of class I am working on learning full stack web development to enhance my personal projects and interests.
 
-## Skills 
-
-### I have experience in the followining languages:
-* C
-* C++
-* Java
-* Python
-* JavaScript
-
-### Other things
-* SQL 
-* Linux 
-* HTML/CSS
-* React
-
 ## Personal interests
 
 I love keyboards! If you know, you know. If you don't... be careful of a giant rabbit hole!
