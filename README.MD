@@ -30,3 +30,5 @@ Outside of class I am working on learning full stack web development to enhance 
 ## Personal interests
 
 I love keyboards! If you know, you know. If you don't... be careful of a giant rabbit hole!
+
+<img src="20211107_154846.jpg" alt="Some boards" width="500"/>
