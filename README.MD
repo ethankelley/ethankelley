@@ -11,9 +11,3 @@ I am a student at the University of Maine, Orono, studying computer science. I l
 Currently I am pursuing a career in sofware development.
 
 Outside of class I am working on learning full stack web development to enhance my personal projects and interests.
-
-## Personal interests
-
-I love keyboards! If you know, you know. If you don't... be careful of a giant rabbit hole!
-
-<img src="20211107_154846.jpg" alt="Some boards" width="500"/>
